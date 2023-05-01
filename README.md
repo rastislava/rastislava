@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### :woman_technologist: About Me :
 My name is Vlada. I am a QA-еngineer Junior <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-Perseverance and attention to detail help me find bugs :woman_technologist:
+Perseverance and attention to detail help me find bugs :magnet: :lady_beetle:
 <!--
 **rastislava/rastislava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
