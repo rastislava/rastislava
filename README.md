@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### :woman_technologist: About Me :
+I am a QA-Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 <!--
 **rastislava/rastislava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
