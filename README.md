@@ -6,7 +6,7 @@ Perseverance and attention to detail help me find bugs :magnet: :lady_beetle:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRiYzlhODJmODMxYzMwZTgyODFiZTFiNzQ2NDFmMmNlYzE4OWVlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
 </div>
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rastislava)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rastislava&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **rastislava/rastislava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
