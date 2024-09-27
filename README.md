@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### :woman_technologist: About Me :
-My name is Vlada. I am a QA-еngineer Junior <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+My name is Vlada. I am a QA-еngineer Middle. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 Perseverance and attention to detail help me find bugs :magnet: :lady_beetle:
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRiYzlhODJmODMxYzMwZTgyODFiZTFiNzQ2NDFmMmNlYzE4OWVlMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
